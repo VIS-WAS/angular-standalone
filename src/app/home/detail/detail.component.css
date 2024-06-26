@@ -1,0 +1,29 @@
+section {
+  /* margin-top: 20px; */
+  margin-left: 40px;
+
+  padding: 20px;
+  width: 55%;
+  /* border: 1px solid black; */
+  background-color: rgb(190, 221, 221);
+}
+
+h3 {
+  font-size: 25px;
+  margin-left: 30px;
+}
+div {
+  margin: 0px 30px;
+}
+section > p {
+  margin: 5px 30px;
+}
+button {
+  margin: 5px 40px;
+  background-color: rgb(68, 144, 221);
+  color: white;
+  border: none;
+  width: 150px;
+  height: 35px;
+  border-radius: 2px;
+}
