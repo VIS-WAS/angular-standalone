@@ -1,9 +1,7 @@
 import { Injectable } from '@angular/core';
 import { retry } from 'rxjs';
 
-@Injectable({
-  providedIn: 'root',
-})
+@Injectable()
 export class ActionService {
   value: boolean = false;
   constructor() {}
